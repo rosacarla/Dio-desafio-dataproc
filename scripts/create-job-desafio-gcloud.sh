@@ -1,0 +1,1 @@
+gcloud dataproc jobs wait job-desafio --project desafiodataproc-347418 --region us-central1

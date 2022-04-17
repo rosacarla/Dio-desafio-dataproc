@@ -1,8 +1,8 @@
-# Desafio Ecossistema Hadoop gerenciado com Google Cloud Dataproc
+# Ecossistema Hadoop gerenciado com Google Cloud Dataproc
 
 <p align="center"><img src="https://github.com/rosacarla/Dio-desafio-dataproc/blob/main/images/Hadoop-1280x959.png" width="125"></p>
 
-O desafio de projeto __*Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform*__ faz parte do bootcamp Cognizant Cloud Data Engineer, promovido pela plataforma da Digital Innovation One Inc.
+O desafio de projeto __*Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform*__ faz parte do bootcamp Cognizant Cloud Data Engineer #2, promovido pela plataforma da Digital Innovation One Inc.
 
 O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contagem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
 
@@ -35,3 +35,14 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 NOTA: Se o Job mostrar um WARN de Interrupt, basta ignorar. Existe um bug no Hadoop que é conhecido. Isso não impacta no processamento.
 
 Qualquer outra dúvida, informação ou sugestão pode ser obtida com o professor: marcelo@smarques.com.
+
+---
+
+### Autora
+Carla Edila Silveira
+Contato: rosa.carla@pucpr.edu.br
+
+---
+
+### Licença
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) 

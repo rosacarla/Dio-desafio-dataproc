@@ -40,7 +40,7 @@ Qualquer outra dúvida, informação ou sugestão pode ser tratada com o profess
 ---
 
 ### Autora
-Carla Edila Silveira
+Carla Edila Silveira </br>
 Contato: rosa.carla@pucpr.edu.br
 
 ---
